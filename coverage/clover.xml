@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1685926291998" clover="3.2.0">
+  <project timestamp="1685926291998" name="All files">
+    <metrics statements="20" coveredstatements="18" conditionals="5" coveredconditionals="3" methods="3" coveredmethods="2" elements="28" coveredelements="23" complexity="0" loc="20" ncloc="20" packages="8" files="9" classes="9"/>
+    <package name="src.assets.images">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="star.png" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\assets\images\star.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.ImageIcon">
+      <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="ImageIcon.tsx" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\components\ImageIcon\ImageIcon.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.StarRating">
+      <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="StarRating.tsx" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\components\StarRating\StarRating.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="CommonModels.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\models\CommonModels.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="api.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\services\api.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.styles">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="colors.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\src\styles\colors.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.mocks">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="showMocks.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\test\mocks\showMocks.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="123" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="154" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="test.server">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="handlers.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\test\server\handlers.ts">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="server.ts" path="C:\Users\Leonardo\Documents\GITHUB\react_native_tv_guide\test\server\server.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
