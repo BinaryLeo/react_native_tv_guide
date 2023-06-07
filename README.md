@@ -49,3 +49,18 @@ yarn add --dev @testing-library/jest-native
 
 ### App Screenshots
 
+<table>
+  <tr>
+    <td>Drawer</td>
+    <td>Home</td>
+    <td>Details</td>
+    <td>Favorites</td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://github.com/BinaryLeo/react_native_tv_guide/blob/main/docs/images/android/drawer-menu.png"></td>
+    <td><img src="https://github.com/BinaryLeo/react_native_tv_guide/blob/main/docs/images/android/home-screen.png"></td>
+    <td><img src="https://github.com/BinaryLeo/react_native_tv_guide/blob/main/docs/images/android/show-details.png"></td>
+    <td><img src="https://github.com/BinaryLeo/react_native_tv_guide/blob/main/docs/images/android/favorite-screen.png"></td>
+    </tr>
+</table>
